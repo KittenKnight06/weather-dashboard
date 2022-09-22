@@ -20,16 +20,18 @@
 
 ## [Weather Dashboard URL](https://kittenknight06.github.io/weather-dashboard/)
 
-## The cover page is shown as below
+### - The cover page is shown as below
 
-![image](assets/photos/cover.png)
+![image](assets/photos/Cover.png)
 
 ---
 
-### - When clicking the input area on the right side of the hours (i.e. 8:00 AM), user can then type the activities/tasks. 
+### - When enter the name of the city and hit the "Search" button, the weather information will appear, and the search history will appear under the "Clear History" button.
 
-### - When user finishes typing the words, and then click the "save button" on the right for each of the rows that requires saving, the input will then be saved and remain when user refresh the page.
+![image](assets/photos/Search%20city.png)
 
-![image](assets/photos/saved-tasks.png)
+### - When click the "Clear history", all searched history will be cleared.
 
-### Given that the time of the screenshot was at 11:14 PM and all hours on the table were "past hours", therefore the background color of the rows are grey.
+![image](assets/photos/clear%20history.png)
+
+![image](assets/photos/history%20cleared.png)
